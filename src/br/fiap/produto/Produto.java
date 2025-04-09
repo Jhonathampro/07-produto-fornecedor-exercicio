@@ -2,7 +2,7 @@ package br.fiap.produto;
 
 import br.fiap.fornecedor.Fornecedor;
 
-public class Produto {
+ public class Produto {
     private String nome;
     private int quantidadeEstoque;
     private double valorUnitario;
